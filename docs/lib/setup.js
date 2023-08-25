@@ -1,4 +1,4 @@
-let dir = location.pathname.split('/')[1]
+let dir = location.pathname.split('/')[2]
 
 
 const code ={
