@@ -1,3 +1,9 @@
-let route = location
+let dir = location.pathname.split('/')[1]
 
-console.log(route)
+
+const code ={
+    exec:function(){
+
+    }
+}
+console.log(dir)
