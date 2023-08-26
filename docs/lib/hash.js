@@ -116,9 +116,3 @@ const rsa = {
         return [x, y].join('')
     }
 }
-
-let dc = rsa.pubkey(129n, 245)
-
-let enc = rsa.comkey('Arindha1009')
-
-console.log(enc)
