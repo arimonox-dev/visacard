@@ -6,4 +6,4 @@ const code = {
 
     }
 }
-console.log(dir)
+console.log(vm)
